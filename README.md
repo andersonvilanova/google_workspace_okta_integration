@@ -99,7 +99,7 @@ https://support.okta.com/help/s/article/Renaming-Your-Okta-Subdomain?language=en
 28.	No campo **Gerenciar atribuições do perfil de SSO**, clique em **Começar**.
 ![image](https://github.com/user-attachments/assets/75e73ffe-8c15-4682-be0b-bde1afd711f2)
 
-29.	A esquerda, selecione a unidade organizacional criada, chamada **Okta Enabled**. No momento vamos habilitar o Okta para os usuários pertencentes a esta Unidade Organizacional. Como comentado anteriormente, esse processo auxilia em um momento de migração.
+29.	A esquerda, selecione a unidade organizacional criada, chamada **Okta Enabled**. No momento vamos habilitar o Okta para os usuários pertencentes a esta Unidade Organizacional, mas você pode adicionar em mais de uma.
 ![image](https://github.com/user-attachments/assets/88eef133-544d-4779-851e-d713df3e63c6)
 
 30.	No campo a direita, já com o  escopo selecionado, selecione **Outro perfil de SSO**, selecione **Okta – SAML**, mantenha a opção **O Google solicita o nome de usuário e redireciona a pessoa para a página de login do IdP desse perfil**, e clique em **Substituir**.
